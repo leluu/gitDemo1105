@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-gitabc
+//day la dong comment
 
 int main(){
     cout << "Hello world" << endl;
