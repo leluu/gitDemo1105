@@ -3,6 +3,6 @@
 int main()
 {
     //ngung chuong trinh
-    system("pause";)
+    system("pause");
     return 0;
 }
